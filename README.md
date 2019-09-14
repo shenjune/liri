@@ -17,14 +17,15 @@ liri app for HW 10
     --C. for concert, type in "node liri.js concert-this" [type in band]
         This will pull up recent information about the next concert for the band, location they are playing and time and date of the show. 
 
-4. For a screenshot of how it works go to the demo folder. There are 3 screenshots--one for each of the type of searches. 
-    --A. for movies, look at liri-demo
-    https://user-images.githubusercontent.com/19918320/64911343-72911680-d6d5-11e9-94a5-1075cbf347d1.png
-    --B. for concerts, look at concert-search
-    --C. for music, look at spotify-search
-    
+4. Search Screenshots: There are 3 screenshots--one for each of the type of searches. 
+  
+A. Concert Search  
 ![concert-search](https://user-images.githubusercontent.com/19918320/64911340-6f962600-d6d5-11e9-9c66-f207c37694c3.png)
+
+B. Movie Search
 ![liri-demo](https://user-images.githubusercontent.com/19918320/64911343-72911680-d6d5-11e9-94a5-1075cbf347d1.png)
+
+C. Spotify Search
 ![spotify-search](https://user-images.githubusercontent.com/19918320/64911346-74f37080-d6d5-11e9-8fd5-e393c121f485.png)
 
 
