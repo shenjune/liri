@@ -33,4 +33,4 @@ C. Spotify Search
 
 
 6. Developed by: Jenn June with the helpful expertise of Marino Carranza. 
-for more information, please contact: jennjunux@gmail.com
+for more information, please contact: jennjuneux@gmail.com
