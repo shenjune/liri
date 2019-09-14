@@ -22,6 +22,11 @@ liri app for HW 10
     https://user-images.githubusercontent.com/19918320/64911343-72911680-d6d5-11e9-94a5-1075cbf347d1.png
     --B. for concerts, look at concert-search
     --C. for music, look at spotify-search
+    
+![concert-search](https://user-images.githubusercontent.com/19918320/64911340-6f962600-d6d5-11e9-9c66-f207c37694c3.png)
+![liri-demo](https://user-images.githubusercontent.com/19918320/64911343-72911680-d6d5-11e9-94a5-1075cbf347d1.png)
+![spotify-search](https://user-images.githubusercontent.com/19918320/64911346-74f37080-d6d5-11e9-8fd5-e393c121f485.png)
+
 
 5. That is it! A simple media search app for you to review and have fun with! 
 
