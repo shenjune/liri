@@ -19,8 +19,6 @@ liri app for HW 10
 
 4. For a screenshot of how it works go to the demo folder. There are 3 screenshots--one for each of the type of searches. 
     --A. for movies, look at liri-demo
-    https://user-images.githubusercontent.com/19918320/64911340-6f962600-d6d5-11e9-9c66-f207c37694c3.png
-    
     --B. for concerts, look at concert-search
     --C. for music, look at spotify-search
 
